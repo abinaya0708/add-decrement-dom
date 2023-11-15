@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#container{
+    width:80%;
+    margin:auto;
+}
+#card{
+    /*width:30%;*/
+    margin: auto;
+    text-align: center;
+}
+#image_div{
+    width:50%;
+    margin: auto;
+}
+input{
+    width:10%;
+    
+}
+#image_div img{
+    width: 100%;
+}
